@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maggietaylorcodes
-- 👀 I’m interested in freelance web development, PHP, JavaScript, HTML, and CSS
+- 👀 I’m interested in freelance web development, PHP, JavaScript, HTML, CSS, and Python
 - 🌱 I’m currently learning Wordpress web development
 - 💞️ I’m looking to continue to build my skills as a small website freelance developer
 - 📫 How to reach me morkthealien@gmail.com
